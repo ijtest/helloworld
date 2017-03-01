@@ -7,7 +7,7 @@ class TestMyFunc(unittest.TestCase):
     def setUp(self):
         pass
  
-    def test_increment_one_1(self):
+    def test_hello(self):
         self.assertEqual( helloworld.hello(1), "Hello")
   
 
